@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/app_color_navy</color>
+    <color name="colorPrimaryDark">@color/app_color_navy</color>
+    <color name="colorAccent">#42036C</color>
+    <color name="app_color_navy">#290243</color>
+    <color name="white">#FEFCFF</color>
+    <color name="black">#000000</color>
+    <color name="secondry_color">#E66A16</color>
+    <color name="low_app_color">#FFF3F1</color>
+    <color name="dark_gray">#626262</color>
+    <color name="light_gray">#9C9C9C</color>
+    <color name="bg_gray">#f2f2f2</color>
+    <color name="green">#0DAE14</color>
+    <color name="red">#F44336</color>
+    <color name="google_clr">#EF1C0D</color>
+    <color name="fb_color">#344DD6</color>
+</resources>

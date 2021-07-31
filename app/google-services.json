@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "923502889308",
+    "project_id": "aureus-sample",
+    "storage_bucket": "aureus-sample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923502889308:android:df3ddfd1c19baaa2b89999",
+        "android_client_info": {
+          "package_name": "com.istech.sampletestaureus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923502889308-vqttdta0a06unfkv7i1ra35r217pgq66.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.istech.sampletestaureus",
+            "certificate_hash": "9206dee77ce860adc5e6fb73c14e972382637095"
+          }
+        },
+        {
+          "client_id": "923502889308-n4jo0taa1trog9mvns4hpaa84fjf20v5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2XsMh4FZkI4rTRRetEAIxNqY3XySnDss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923502889308-n4jo0taa1trog9mvns4hpaa84fjf20v5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

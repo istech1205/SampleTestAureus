@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SampleTestAureus</string>
+    <string name="log_in">Log in!</string>
+    <string name="sign_up">Sign Up!</string>
+
+    <string name="dummy_description">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s</string>
+    <string name="forgot_password">Forgot Password?</string>
+
+    <string name="facebook_app_id">332345838583240</string>
+    <string name="fb_login_protocol_scheme">fb332345838583240</string>
+
+</resources>
